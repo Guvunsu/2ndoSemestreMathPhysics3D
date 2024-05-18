@@ -1,0 +1,1385 @@
+fileFormatVersion: 2
+guid: 454848a96700aa940bdaf27d20f49097
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21cabeed5ca69e47a86e36ecf4f37d5
+      internalID: -1876470600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 372.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d2e9222a8f3be4fa5811cd1fbd8d60
+      internalID: -1531839487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 372.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7c9d5bebac8e74ea98ae15b2faa8dc
+      internalID: 78191194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 372.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb261b0e68f6f9f4099429231fce4357
+      internalID: 796908736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_4
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 372.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d8361732d246a4aadf63bd72062b3a
+      internalID: 636367545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_5
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 372.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6565df586491f8f468e3f6676376c012
+      internalID: -606004080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_6
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 372.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c0fb44fee34d14d965ce35ceea219d
+      internalID: -467640779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_7
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 372.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1973bcb350f56ef44a836c4f72afe50d
+      internalID: -964892021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_8
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 372.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae99fbd4433ef9141a8bd8e119de952e
+      internalID: -1038173598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_9
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 372.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917692afbe293ea42a2f20ef7ad043e7
+      internalID: -695206973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_10
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 372.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacacffe58463294da5407df59851634
+      internalID: -28247619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_11
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 372.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a2d48168dcd7948b966dcf4b5bd704
+      internalID: 304476018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_12
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 372.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8f0616dcf71704da4693db962a80ab
+      internalID: -932052592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_13
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 372.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1eb686fb5e71dd4f8e1d49da3229d5b
+      internalID: -2085231096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ee6f4cd89255347845a7bb26085afb
+      internalID: -2028495016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 248.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93f72fa733276b4e94d36f8d0814df0
+      internalID: -175890221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_16
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 248.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5851457bcbfd38245b233cd92205f1be
+      internalID: -1592586274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_17
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 248.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5056bee6039d24eaf5850ab0d08a19
+      internalID: -1963900646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_18
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 248.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c76d33d500214744a7f2f6ef04d7283
+      internalID: 211447302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_19
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 248.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c3f32a36bcbca4babc6c88eeabd3ac
+      internalID: 90244670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_20
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 248.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c33595a1686c7b4daaa67fb4967513d
+      internalID: 255223431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_21
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 248.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bc4df87dddd2c42b8aa926a42c80e7
+      internalID: 966459821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_22
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 248.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f246a0e4d205a404190669f8bb775c63
+      internalID: 934154880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_23
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 248.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5819e58e57890ab48a4dce246ebe693b
+      internalID: -441105798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_24
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 248.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954daa2191a12ae4ebb5d937f7161f7d
+      internalID: -1602058027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_25
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 248.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f4ba2aedf7e014eac29b27a4de73f7
+      internalID: -886279075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_26
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 248.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea4fef81fc7a434e9821768bad584c5
+      internalID: -595060789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_27
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 248.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc63de15ef84c3469e03b08983a042f
+      internalID: 1396434147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9a0a245b9b8e04ea92944a13ec7bfd
+      internalID: -1879021238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_29
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 124.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864b075f2c68cab4ebdac6f0b3982d3a
+      internalID: 1598716599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_30
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 124.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f73ba90b453954e90a84a8678cccc6
+      internalID: 403148246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_31
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 124.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad1efbe5e5fb5e459c26e8a333e0118
+      internalID: 609289569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_32
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 124.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127e39bd3ec443d48ba6b8c03a4ffc78
+      internalID: -1958886699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_33
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 124.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca5434a892c29b4181ba75f46a53556
+      internalID: -1153925598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_34
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 124.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d52c97b442c51489b6547ba2f60cef
+      internalID: -802366044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_35
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 124.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5062f84fc84fb45a435c6f40233518
+      internalID: -789415281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_36
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 124.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22e82c7ccb39f047ac65728ac722c98
+      internalID: 289294561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_37
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 124.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb1888fa03414146839ea07192a7fcd
+      internalID: 1576104239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_38
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 124.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f05ed92bd229a84ca54ff40ce7d917f
+      internalID: -1713385565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_39
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 124.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6152f9177152c948b064402b6510984
+      internalID: -850665312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_40
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 124.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d4b42fc234b664ea1dd6957bd700aa
+      internalID: -2120302689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_41
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 124.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9682441ad587d43979f61c730d4d84
+      internalID: -1532550150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52705f3c40cf20a4bb1c58cd703f3bf8
+      internalID: -1317209515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_43
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11036b1874a27884e999b90b734e989b
+      internalID: 837598571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_44
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36201f71fa0965478564bb9c09ab706
+      internalID: -1034233419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_45
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 0.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35f26b89de548d40b5b8e4ad6cad6aa
+      internalID: -928235254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_46
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 0.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2233331680591a49b475481b738e85d
+      internalID: 822929332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_47
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 0.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6cf32a7332010489e17eeaa6401dde
+      internalID: 73305157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_48
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 0.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ce58dd43580a14a8ff96c7535346e7
+      internalID: -1980564654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_49
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 0.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb87c60ddd594f4ba012da0ecf6fb47
+      internalID: -1398251575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_50
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 0.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b27cefc442fb724ab0ef730b3016376
+      internalID: 170990226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_51
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 0.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5782b91ed42d8743bf9175774f91fc1
+      internalID: -1785323832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_52
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 0.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419ab0985d2c596409dcc4e2ea6b3d22
+      internalID: 619817735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_53
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 0.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cb0acff302a9047a5fe7bd613b7483
+      internalID: -2068492601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_54
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 0.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f071968f2f36ac40b78ee3693506378
+      internalID: 1977458928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Poker Galore - Playing Cards 1_55
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 0.75
+        width: 113.07143
+        height: 124.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3830164747986dc4496dc618f23016ee
+      internalID: -885716888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 00b9435cde8d1b743a87deee0fed7613
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Poker Galore - Playing Cards 1_0: -1876470600
+      PC Computer - Poker Galore - Playing Cards 1_1: -1531839487
+      PC Computer - Poker Galore - Playing Cards 1_10: -28247619
+      PC Computer - Poker Galore - Playing Cards 1_11: 304476018
+      PC Computer - Poker Galore - Playing Cards 1_12: -932052592
+      PC Computer - Poker Galore - Playing Cards 1_13: -2085231096
+      PC Computer - Poker Galore - Playing Cards 1_14: -2028495016
+      PC Computer - Poker Galore - Playing Cards 1_15: -175890221
+      PC Computer - Poker Galore - Playing Cards 1_16: -1592586274
+      PC Computer - Poker Galore - Playing Cards 1_17: -1963900646
+      PC Computer - Poker Galore - Playing Cards 1_18: 211447302
+      PC Computer - Poker Galore - Playing Cards 1_19: 90244670
+      PC Computer - Poker Galore - Playing Cards 1_2: 78191194
+      PC Computer - Poker Galore - Playing Cards 1_20: 255223431
+      PC Computer - Poker Galore - Playing Cards 1_21: 966459821
+      PC Computer - Poker Galore - Playing Cards 1_22: 934154880
+      PC Computer - Poker Galore - Playing Cards 1_23: -441105798
+      PC Computer - Poker Galore - Playing Cards 1_24: -1602058027
+      PC Computer - Poker Galore - Playing Cards 1_25: -886279075
+      PC Computer - Poker Galore - Playing Cards 1_26: -595060789
+      PC Computer - Poker Galore - Playing Cards 1_27: 1396434147
+      PC Computer - Poker Galore - Playing Cards 1_28: -1879021238
+      PC Computer - Poker Galore - Playing Cards 1_29: 1598716599
+      PC Computer - Poker Galore - Playing Cards 1_3: 796908736
+      PC Computer - Poker Galore - Playing Cards 1_30: 403148246
+      PC Computer - Poker Galore - Playing Cards 1_31: 609289569
+      PC Computer - Poker Galore - Playing Cards 1_32: -1958886699
+      PC Computer - Poker Galore - Playing Cards 1_33: -1153925598
+      PC Computer - Poker Galore - Playing Cards 1_34: -802366044
+      PC Computer - Poker Galore - Playing Cards 1_35: -789415281
+      PC Computer - Poker Galore - Playing Cards 1_36: 289294561
+      PC Computer - Poker Galore - Playing Cards 1_37: 1576104239
+      PC Computer - Poker Galore - Playing Cards 1_38: -1713385565
+      PC Computer - Poker Galore - Playing Cards 1_39: -850665312
+      PC Computer - Poker Galore - Playing Cards 1_4: 636367545
+      PC Computer - Poker Galore - Playing Cards 1_40: -2120302689
+      PC Computer - Poker Galore - Playing Cards 1_41: -1532550150
+      PC Computer - Poker Galore - Playing Cards 1_42: -1317209515
+      PC Computer - Poker Galore - Playing Cards 1_43: 837598571
+      PC Computer - Poker Galore - Playing Cards 1_44: -1034233419
+      PC Computer - Poker Galore - Playing Cards 1_45: -928235254
+      PC Computer - Poker Galore - Playing Cards 1_46: 822929332
+      PC Computer - Poker Galore - Playing Cards 1_47: 73305157
+      PC Computer - Poker Galore - Playing Cards 1_48: -1980564654
+      PC Computer - Poker Galore - Playing Cards 1_49: -1398251575
+      PC Computer - Poker Galore - Playing Cards 1_5: -606004080
+      PC Computer - Poker Galore - Playing Cards 1_50: 170990226
+      PC Computer - Poker Galore - Playing Cards 1_51: -1785323832
+      PC Computer - Poker Galore - Playing Cards 1_52: 619817735
+      PC Computer - Poker Galore - Playing Cards 1_53: -2068492601
+      PC Computer - Poker Galore - Playing Cards 1_54: 1977458928
+      PC Computer - Poker Galore - Playing Cards 1_55: -885716888
+      PC Computer - Poker Galore - Playing Cards 1_6: -467640779
+      PC Computer - Poker Galore - Playing Cards 1_7: -964892021
+      PC Computer - Poker Galore - Playing Cards 1_8: -1038173598
+      PC Computer - Poker Galore - Playing Cards 1_9: -695206973
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
